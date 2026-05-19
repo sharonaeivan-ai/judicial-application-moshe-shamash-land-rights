@@ -1,0 +1,77 @@
+# Sources Index
+
+## Core registration claim
+1. Probate order (צו קיום צוואה) – proves inheritance basis
+   - /docs/01_probate/01_Probate_Order_Moshe_Shamash.pdf
+
+2. Death certificate – proves date of death
+   - /docs/01_probate/02_Death_Certificate.pdf
+
+3. Official land-tax status record for Sarina
+   - shows Gush 38049 / Parcel 36 / Subparcel 35
+   - /docs/02_land_records/03_Mas_Rechisha_Status_Gush38049_36_35_2026-05-18.pdf
+
+4. Authority response stating court order is required
+   - /docs/03_rmi_tabu/04_RMI_Email_Order_Required.pdf
+
+5. Beer Sheva land registration office response
+   - says filing cannot be done by email and documents must be submitted formally
+   - /docs/03_rmi_tabu/05_Tabu_BeerSheva_Email_No_Email_Filing.pdf
+
+## Supporting evidence
+6. Bank letter linking Moshe Shamash to Beer Sheva business branch
+   - /docs/05_bank_records/06_Bank_Letter_BeerSheva_607_2007-02-20.pdf
+
+7. Any prior court order potentially relevant to land registration
+   - /docs/04_court_orders/[filename].pdf
+
+## Notes
+- Use only proven facts from these documents.
+- Do not invent missing facts.
+- Where details are unclear, leave placeholders.# Sources Index
+
+## Core registration claim
+1. Probate order (צו קיום צוואה) – proves inheritance basis
+   - /docs/01_probate/01_Probate_Order_Moshe_Shamash.pdf
+
+2. Death certificate – proves date of death
+   - /docs/01_probate/02_Death_Certificate.pdf
+
+3. Official land-tax status record for Sarina
+   - shows Gush 38049 / Parcel 36 / Subparcel 35
+   - /docs/02_land_records/03_Mas_Rechisha_Status_Gush38049_36_35_2026-05-18.pdf
+
+4. Authority response stating court order is required
+   - /docs/03_rmi_tabu/04_RMI_Email_Order_Required.pdf
+
+5. Beer Sheva land registration office response
+   - says filing cannot be done by email and documents must be submitted formally
+   - /docs/03_rmi_tabu/05_Tabu_BeerSheva_Email_No_Email_Filing.pdf
+
+## Supporting evidence
+6. Bank letter linking Moshe Shamash to Beer Sheva business branch
+   - /docs/05_bank_records/06_Bank_Letter_BeerSheva_607_2007-02-20.pdf
+
+7. Any prior court order potentially relevant to land registration
+   - /docs/04_court_orders/[filename].pdf
+
+## Notes
+- Use only proven facts from these documents.
+- Do not invent missing facts.
+- Where details are unclear, leave placeholders.
+# Case Summary
+
+Applicant: Sarina Shamash  
+Deceased: Moshe Shamash  
+Goal: Obtain a judicial order enabling registration of inherited land rights.
+
+Core property:
+- Gush 38049
+- Parcel 36
+- Subparcel 35
+
+Known procedural position:
+- Valid probate basis exists.
+- Official property-status record ties Sarina to the land unit.
+- Authorities stated that registration cannot be completed without a court order.
+- Filing must therefore be drafted as a serious judicial application.
